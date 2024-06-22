@@ -1,0 +1,81 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1,Chrome 126.0.0.0,,,22-06-2024 11:38:13,22-06-2024 11:38:51,37.688s,PASSED
+,,,,,,,
+Test Cases/TCs_W/checkpoint,Chrome 126.0.0.0,,,22-06-2024 11:38:14,22-06-2024 11:38:38,24.571s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:14,22-06-2024 11:38:16,2.242s,PASSED
+"navigateToUrl(""https://academy.katalon.com/"")",Chrome 126.0.0.0,,,22-06-2024 11:38:16,22-06-2024 11:38:25,9.169s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 1"")",Chrome 126.0.0.0,,,22-06-2024 11:38:25,22-06-2024 11:38:27,2.467s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 2 "")",Chrome 126.0.0.0,,,22-06-2024 11:38:27,22-06-2024 11:38:28,0.635s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 3"")",Chrome 126.0.0.0,,,22-06-2024 11:38:28,22-06-2024 11:38:29,0.638s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 4"")",Chrome 126.0.0.0,,,22-06-2024 11:38:29,22-06-2024 11:38:29,0.655s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 5"")",Chrome 126.0.0.0,,,22-06-2024 11:38:29,22-06-2024 11:38:30,0.605s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 6"")",Chrome 126.0.0.0,,,22-06-2024 11:38:30,22-06-2024 11:38:31,0.591s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 7"")",Chrome 126.0.0.0,,,22-06-2024 11:38:31,22-06-2024 11:38:31,0.630s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 8 "")",Chrome 126.0.0.0,,,22-06-2024 11:38:31,22-06-2024 11:38:32,0.636s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport9"")",Chrome 126.0.0.0,,,22-06-2024 11:38:32,22-06-2024 11:38:32,0.606s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport 10"")",Chrome 126.0.0.0,,,22-06-2024 11:38:32,22-06-2024 11:38:33,0.618s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport11"")",Chrome 126.0.0.0,,,22-06-2024 11:38:33,22-06-2024 11:38:34,0.594s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport12"")",Chrome 126.0.0.0,,,22-06-2024 11:38:34,22-06-2024 11:38:34,0.600s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport13"")",Chrome 126.0.0.0,,,22-06-2024 11:38:34,22-06-2024 11:38:35,0.630s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport14"")",Chrome 126.0.0.0,,,22-06-2024 11:38:35,22-06-2024 11:38:36,0.617s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport15"")",Chrome 126.0.0.0,,,22-06-2024 11:38:36,22-06-2024 11:38:36,0.600s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport16"")",Chrome 126.0.0.0,,,22-06-2024 11:38:36,22-06-2024 11:38:37,0.616s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport17"")",Chrome 126.0.0.0,,,22-06-2024 11:38:37,22-06-2024 11:38:37,0.598s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport16"")",Chrome 126.0.0.0,,,22-06-2024 11:38:37,22-06-2024 11:38:38,0.604s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:38,22-06-2024 11:38:38,0.112s,PASSED
+,,,,,,,
+Test Cases/TCs_W/request,Chrome 126.0.0.0,,,22-06-2024 11:38:38,22-06-2024 11:38:39,0.520s,PASSED
+"sendRequest(findTestObject(""New Request""))",Chrome 126.0.0.0,,,22-06-2024 11:38:38,22-06-2024 11:38:39,0.492s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC26,Chrome 126.0.0.0,,,22-06-2024 11:38:39,22-06-2024 11:38:39,0.828s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:39,22-06-2024 11:38:39,0.722s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:39,22-06-2024 11:38:39,0.090s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC27,Chrome 126.0.0.0,,,22-06-2024 11:38:39,22-06-2024 11:38:40,0.679s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:39,22-06-2024 11:38:40,0.584s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:40,22-06-2024 11:38:40,0.086s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC28,Chrome 126.0.0.0,,,22-06-2024 11:38:40,22-06-2024 11:38:41,0.676s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:40,22-06-2024 11:38:41,0.585s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:41,22-06-2024 11:38:41,0.084s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC29,Chrome 126.0.0.0,,,22-06-2024 11:38:41,22-06-2024 11:38:41,0.660s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:41,22-06-2024 11:38:41,0.573s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:41,22-06-2024 11:38:41,0.079s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC3,Chrome 126.0.0.0,,,22-06-2024 11:38:41,22-06-2024 11:38:42,0.662s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:41,22-06-2024 11:38:42,0.573s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:42,22-06-2024 11:38:42,0.084s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC30,Chrome 126.0.0.0,,,22-06-2024 11:38:42,22-06-2024 11:38:43,0.669s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:42,22-06-2024 11:38:43,0.581s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:43,22-06-2024 11:38:43,0.081s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC4,Chrome 126.0.0.0,,,22-06-2024 11:38:43,22-06-2024 11:38:43,0.675s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:43,22-06-2024 11:38:43,0.583s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:43,22-06-2024 11:38:43,0.085s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC5,Chrome 126.0.0.0,,,22-06-2024 11:38:43,22-06-2024 11:38:44,0.794s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:43,22-06-2024 11:38:44,0.700s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:44,22-06-2024 11:38:44,0.085s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC6,Chrome 126.0.0.0,,,22-06-2024 11:38:44,22-06-2024 11:38:45,0.677s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:44,22-06-2024 11:38:45,0.586s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:45,22-06-2024 11:38:45,0.086s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC7,Chrome 126.0.0.0,,,22-06-2024 11:38:45,22-06-2024 11:38:46,0.668s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:45,22-06-2024 11:38:46,0.577s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:46,22-06-2024 11:38:46,0.084s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC8,Chrome 126.0.0.0,,,22-06-2024 11:38:46,22-06-2024 11:38:46,0.649s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:46,22-06-2024 11:38:46,0.559s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:46,22-06-2024 11:38:46,0.083s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC_O,Chrome 126.0.0.0,,,22-06-2024 11:38:46,22-06-2024 11:38:50,4.067s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:46,22-06-2024 11:38:47,0.590s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 126.0.0.0,,,22-06-2024 11:38:47,22-06-2024 11:38:50,3.359s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:50,22-06-2024 11:38:50,0.088s,PASSED
+,,,,,,,
+Test Cases/TCs_W/TC9,Chrome 126.0.0.0,,,22-06-2024 11:38:50,22-06-2024 11:38:51,0.818s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,22-06-2024 11:38:50,22-06-2024 11:38:51,0.725s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,22-06-2024 11:38:51,22-06-2024 11:38:51,0.085s,PASSED

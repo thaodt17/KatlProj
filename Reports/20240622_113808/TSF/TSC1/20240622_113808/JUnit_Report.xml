@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TSC1" time="67.95" tests="28" failures="0" errors="0">
+   <testsuite name="TS1" tests="15" failures="0" errors="0" time="37.688" skipped="0" timestamp="22-06-2024T11:38:13" hostname="anhtran - 192.168.102.5" id="Test Suites/TSF/TS1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/anhtran/git/KatlProj/Reports/20240622_113808/TSF/TS1/20240622_113809"/>
+         <property name="logFiles" value="/Users/anhtran/git/KatlProj/Reports/20240622_113808/TSF/TS1/20240622_113809/execution0.log"/>
+         <property name="attachments" value="keyes/keyes-current_viewport 1.png, keyes/keyes-current_viewport 2.png, keyes/keyes-current_viewport 3.png, keyes/keyes-current_viewport 4.png, keyes/keyes-current_viewport 5.png, keyes/keyes-current_viewport 6.png, keyes/keyes-current_viewport 7.png, keyes/keyes-current_viewport 8.png, keyes/keyes-current_viewport9.png, keyes/keyes-current_viewport 10.png, keyes/keyes-current_viewport11.png, keyes/keyes-current_viewport12.png, keyes/keyes-current_viewport13.png, keyes/keyes-current_viewport14.png, keyes/keyes-current_viewport15.png, keyes/keyes-current_viewport16.png, keyes/keyes-current_viewport17.png, keyes/keyes-current_viewport16.png"/>
+         <property name="hostName" value="anhtran - 192.168.102.5"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.102.5"/>
+         <property name="sessionId" value="24bea2441e816dba358cbef1cdb8116e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TCs_W/checkpoint" time="24.571" classname="Test Cases/TCs_W/checkpoint" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:14 - [TEST_CASE][PASSED] - Test Cases/TCs_W/checkpoint: Test Cases/TCs_W/checkpoint
+
+22-06-2024T11:38:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:16 - [TEST_STEP][PASSED] - navigateToUrl("https://academy.katalon.com/"): Navigate to 'https://academy.katalon.com/' successfully
+
+22-06-2024T11:38:25 - [MESSAGE][PASSED] - Navigate to 'https://academy.katalon.com/' successfully
+
+22-06-2024T11:38:25 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 1"): Taking screenshot successfully
+
+22-06-2024T11:38:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 1.png]]
+
+22-06-2024T11:38:27 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 2 "): Taking screenshot successfully
+
+22-06-2024T11:38:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 2.png]]
+
+22-06-2024T11:38:28 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 3"): Taking screenshot successfully
+
+22-06-2024T11:38:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 3.png]]
+
+22-06-2024T11:38:29 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 4"): Taking screenshot successfully
+
+22-06-2024T11:38:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 4.png]]
+
+22-06-2024T11:38:29 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 5"): Taking screenshot successfully
+
+22-06-2024T11:38:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 5.png]]
+
+22-06-2024T11:38:30 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 6"): Taking screenshot successfully
+
+22-06-2024T11:38:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 6.png]]
+
+22-06-2024T11:38:31 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 7"): Taking screenshot successfully
+
+22-06-2024T11:38:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 7.png]]
+
+22-06-2024T11:38:31 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 8 "): Taking screenshot successfully
+
+22-06-2024T11:38:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 8.png]]
+
+22-06-2024T11:38:32 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport9"): Taking screenshot successfully
+
+22-06-2024T11:38:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport9.png]]
+
+22-06-2024T11:38:32 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 10"): Taking screenshot successfully
+
+22-06-2024T11:38:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 10.png]]
+
+22-06-2024T11:38:33 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport11"): Taking screenshot successfully
+
+22-06-2024T11:38:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport11.png]]
+
+22-06-2024T11:38:34 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport12"): Taking screenshot successfully
+
+22-06-2024T11:38:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport12.png]]
+
+22-06-2024T11:38:34 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport13"): Taking screenshot successfully
+
+22-06-2024T11:38:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport13.png]]
+
+22-06-2024T11:38:35 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport14"): Taking screenshot successfully
+
+22-06-2024T11:38:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport14.png]]
+
+22-06-2024T11:38:36 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport15"): Taking screenshot successfully
+
+22-06-2024T11:38:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport15.png]]
+
+22-06-2024T11:38:36 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport16"): Taking screenshot successfully
+
+22-06-2024T11:38:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport16.png]]
+
+22-06-2024T11:38:37 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport17"): Taking screenshot successfully
+
+22-06-2024T11:38:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport17.png]]
+
+22-06-2024T11:38:37 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport16"): Taking screenshot successfully
+
+22-06-2024T11:38:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:38:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport16.png]]
+
+22-06-2024T11:38:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/request" time="0.52" classname="Test Cases/TCs_W/request" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:38 - [TEST_CASE][PASSED] - Test Cases/TCs_W/request: Test Cases/TCs_W/request
+
+22-06-2024T11:38:38 - [TEST_STEP][PASSED] - sendRequest(findTestObject("New Request")): Send request successfully
+
+22-06-2024T11:38:39 - [MESSAGE][INFO] - HAR: /Users/anhtran/git/KatlProj/Reports/20240622_113808/TSF/TS1/20240622_113809/requests/main/0.har
+
+22-06-2024T11:38:39 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC26" time="0.828" classname="Test Cases/TCs_W/TC26" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:39 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC26: Test Cases/TCs_W/TC26
+
+22-06-2024T11:38:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC27" time="0.679" classname="Test Cases/TCs_W/TC27" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:39 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC27: Test Cases/TCs_W/TC27
+
+22-06-2024T11:38:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC28" time="0.676" classname="Test Cases/TCs_W/TC28" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:40 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC28: Test Cases/TCs_W/TC28
+
+22-06-2024T11:38:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC29" time="0.66" classname="Test Cases/TCs_W/TC29" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:41 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC29: Test Cases/TCs_W/TC29
+
+22-06-2024T11:38:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC3" time="0.662" classname="Test Cases/TCs_W/TC3" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:41 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC3: Test Cases/TCs_W/TC3
+
+22-06-2024T11:38:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC30" time="0.669" classname="Test Cases/TCs_W/TC30" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:42 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC30: Test Cases/TCs_W/TC30
+
+22-06-2024T11:38:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC4" time="0.675" classname="Test Cases/TCs_W/TC4" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:43 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC4: Test Cases/TCs_W/TC4
+
+22-06-2024T11:38:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC5" time="0.794" classname="Test Cases/TCs_W/TC5" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:43 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC5: Test Cases/TCs_W/TC5
+
+22-06-2024T11:38:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC6" time="0.677" classname="Test Cases/TCs_W/TC6" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:44 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC6: Test Cases/TCs_W/TC6
+
+22-06-2024T11:38:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC7" time="0.668" classname="Test Cases/TCs_W/TC7" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:45 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC7: Test Cases/TCs_W/TC7
+
+22-06-2024T11:38:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC8" time="0.649" classname="Test Cases/TCs_W/TC8" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:46 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC8: Test Cases/TCs_W/TC8
+
+22-06-2024T11:38:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC_O" time="4.067" classname="Test Cases/TCs_W/TC_O" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:46 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC_O: Test Cases/TCs_W/TC_O
+
+22-06-2024T11:38:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:47 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+22-06-2024T11:38:50 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+22-06-2024T11:38:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC9" time="0.818" classname="Test Cases/TCs_W/TC9" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:50 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC9: Test Cases/TCs_W/TC9
+
+22-06-2024T11:38:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:38:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-06-2024T11:38:13 - [TEST_SUITE][PASSED] - TS1: Test Cases/TCs_W/TC9]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TS2" tests="13" failures="0" errors="0" time="26.985" skipped="0" timestamp="22-06-2024T11:38:53" hostname="anhtran - 192.168.102.5" id="Test Suites/TSF/TS2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/anhtran/git/KatlProj/Reports/20240622_113808/TSF/TS2/20240622_113811"/>
+         <property name="logFiles" value="/Users/anhtran/git/KatlProj/Reports/20240622_113808/TSF/TS2/20240622_113811/execution0.log"/>
+         <property name="attachments" value="keyes/keyes-current_viewport 1.png, keyes/keyes-current_viewport 2.png, keyes/keyes-current_viewport 3.png, keyes/keyes-current_viewport 4.png, keyes/keyes-current_viewport 5.png, keyes/keyes-current_viewport 6.png, keyes/keyes-current_viewport 7.png, keyes/keyes-current_viewport 8.png, keyes/keyes-current_viewport9.png, keyes/keyes-current_viewport 10.png, keyes/keyes-current_viewport11.png, keyes/keyes-current_viewport12.png, keyes/keyes-current_viewport13.png, keyes/keyes-current_viewport14.png, keyes/keyes-current_viewport15.png, keyes/keyes-current_viewport16.png, keyes/keyes-current_viewport17.png, keyes/keyes-current_viewport16.png"/>
+         <property name="hostName" value="anhtran - 192.168.102.5"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.102.5"/>
+         <property name="sessionId" value="620e9bd3bf3cd179b8f1fe1c169dfe69"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TCs_W/checkpoint" time="18.862" classname="Test Cases/TCs_W/checkpoint" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:38:53 - [TEST_CASE][PASSED] - Test Cases/TCs_W/checkpoint: Test Cases/TCs_W/checkpoint
+
+22-06-2024T11:38:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:38:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:38:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:38:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:38:54 - [TEST_STEP][PASSED] - navigateToUrl("https://academy.katalon.com/"): Navigate to 'https://academy.katalon.com/' successfully
+
+22-06-2024T11:38:59 - [MESSAGE][PASSED] - Navigate to 'https://academy.katalon.com/' successfully
+
+22-06-2024T11:38:59 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 1"): Taking screenshot successfully
+
+22-06-2024T11:39:01 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 1.png]]
+
+22-06-2024T11:39:01 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 2 "): Taking screenshot successfully
+
+22-06-2024T11:39:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 2.png]]
+
+22-06-2024T11:39:02 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 3"): Taking screenshot successfully
+
+22-06-2024T11:39:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 3.png]]
+
+22-06-2024T11:39:03 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 4"): Taking screenshot successfully
+
+22-06-2024T11:39:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 4.png]]
+
+22-06-2024T11:39:03 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 5"): Taking screenshot successfully
+
+22-06-2024T11:39:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 5.png]]
+
+22-06-2024T11:39:04 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 6"): Taking screenshot successfully
+
+22-06-2024T11:39:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 6.png]]
+
+22-06-2024T11:39:05 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 7"): Taking screenshot successfully
+
+22-06-2024T11:39:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 7.png]]
+
+22-06-2024T11:39:05 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 8 "): Taking screenshot successfully
+
+22-06-2024T11:39:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 8.png]]
+
+22-06-2024T11:39:06 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport9"): Taking screenshot successfully
+
+22-06-2024T11:39:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport9.png]]
+
+22-06-2024T11:39:06 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 10"): Taking screenshot successfully
+
+22-06-2024T11:39:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 10.png]]
+
+22-06-2024T11:39:07 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport11"): Taking screenshot successfully
+
+22-06-2024T11:39:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport11.png]]
+
+22-06-2024T11:39:08 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport12"): Taking screenshot successfully
+
+22-06-2024T11:39:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport12.png]]
+
+22-06-2024T11:39:08 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport13"): Taking screenshot successfully
+
+22-06-2024T11:39:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport13.png]]
+
+22-06-2024T11:39:09 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport14"): Taking screenshot successfully
+
+22-06-2024T11:39:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport14.png]]
+
+22-06-2024T11:39:09 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport15"): Taking screenshot successfully
+
+22-06-2024T11:39:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport15.png]]
+
+22-06-2024T11:39:10 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport16"): Taking screenshot successfully
+
+22-06-2024T11:39:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport16.png]]
+
+22-06-2024T11:39:11 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport17"): Taking screenshot successfully
+
+22-06-2024T11:39:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport17.png]]
+
+22-06-2024T11:39:11 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport16"): Taking screenshot successfully
+
+22-06-2024T11:39:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-06-2024T11:39:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport16.png]]
+
+22-06-2024T11:39:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/request" time="0.469" classname="Test Cases/TCs_W/request" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:12 - [TEST_CASE][PASSED] - Test Cases/TCs_W/request: Test Cases/TCs_W/request
+
+22-06-2024T11:39:12 - [TEST_STEP][PASSED] - sendRequest(findTestObject("New Request")): Send request successfully
+
+22-06-2024T11:39:12 - [MESSAGE][INFO] - HAR: /Users/anhtran/git/KatlProj/Reports/20240622_113808/TSF/TS2/20240622_113811/requests/main/0.har
+
+22-06-2024T11:39:12 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC16" time="0.759" classname="Test Cases/TCs_W/TC16" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:12 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC16: Test Cases/TCs_W/TC16
+
+22-06-2024T11:39:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC17" time="0.667" classname="Test Cases/TCs_W/TC17" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:13 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC17: Test Cases/TCs_W/TC17
+
+22-06-2024T11:39:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC18" time="0.681" classname="Test Cases/TCs_W/TC18" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:14 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC18: Test Cases/TCs_W/TC18
+
+22-06-2024T11:39:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC19" time="0.662" classname="Test Cases/TCs_W/TC19" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:14 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC19: Test Cases/TCs_W/TC19
+
+22-06-2024T11:39:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC2" time="0.679" classname="Test Cases/TCs_W/TC2" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:15 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC2: Test Cases/TCs_W/TC2
+
+22-06-2024T11:39:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC20" time="0.679" classname="Test Cases/TCs_W/TC20" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:16 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC20: Test Cases/TCs_W/TC20
+
+22-06-2024T11:39:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC22" time="0.723" classname="Test Cases/TCs_W/TC22" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:16 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC22: Test Cases/TCs_W/TC22
+
+22-06-2024T11:39:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC21" time="0.699" classname="Test Cases/TCs_W/TC21" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:17 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC21: Test Cases/TCs_W/TC21
+
+22-06-2024T11:39:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC23" time="0.703" classname="Test Cases/TCs_W/TC23" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:18 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC23: Test Cases/TCs_W/TC23
+
+22-06-2024T11:39:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC24" time="0.657" classname="Test Cases/TCs_W/TC24" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:19 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC24: Test Cases/TCs_W/TC24
+
+22-06-2024T11:39:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCs_W/TC25" time="0.671" classname="Test Cases/TCs_W/TC25" status="PASSED">
+         <system-out><![CDATA[22-06-2024T11:39:19 - [TEST_CASE][PASSED] - Test Cases/TCs_W/TC25: Test Cases/TCs_W/TC25
+
+22-06-2024T11:39:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-06-2024T11:39:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-06-2024T11:39:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-06-2024T11:39:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-06-2024T11:39:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-06-2024T11:39:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-06-2024T11:38:53 - [TEST_SUITE][PASSED] - TS2: Test Cases/TCs_W/TC25]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
